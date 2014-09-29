@@ -1,7 +1,7 @@
-qb_frameworks
+qb_php_frameworks
 =============
 
-Frameworks for QuickBooks Desktop using PHP
+Framework for QuickBooks Desktop using PHP
 
 Currently this is just a shell framework for connecting to QuickBooks Desktop apps via the QuickBooks Web Connector using PHP/MySQL.
 
